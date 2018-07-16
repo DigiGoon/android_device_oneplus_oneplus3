@@ -73,6 +73,9 @@
     <!-- Whether the display blanks itself when transition from a doze to a non-doze state -->
     <bool name="config_displayBlanksAfterDoze">true</bool>
 
+    <!-- Flashlight on power button -->
+    <integer name="config_flashlightProximityTimeout">3000</integer>
+
     <!-- Whether device has dash charging support -->
     <bool name="config_hasDashCharger">true</bool>
 
